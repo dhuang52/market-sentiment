@@ -2,7 +2,7 @@
 
 ## pip
 
-**Note: ** This project is using python 3.6
+**Note:** This project is using python 3.6
 
 ```
 pip install requests
